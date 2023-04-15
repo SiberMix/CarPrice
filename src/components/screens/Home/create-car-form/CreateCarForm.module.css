@@ -1,0 +1,17 @@
+.form {
+    margin: 10px auto 30px;
+}
+
+.form input {
+    margin-right: 5px;
+    margin-bottom: 5px;
+    padding: 5px 10px;
+    border: none;
+    outline: none;
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+
+.form input:focus {
+    border-color: blue;
+}
